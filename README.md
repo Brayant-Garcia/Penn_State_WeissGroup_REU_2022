@@ -20,6 +20,6 @@ Primary Langues Used;
 -Pypylon: https://github.com/basler/pypylon
 -Numpy: https://numpy.org/
 -PIL
--TrackPy: http://soft-matter.github.io/trackpy/v0.5.0/
+-TrackPy: http://soft-matter.github.io/trackpy/v0.5.0/ *Note this may need to be accessed through Anaconda*
 
 If you have any questions please let me know! 
